@@ -1,0 +1,22 @@
+{
+  "name": "node-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/gamalieldev/node-deploy.git"
+  },
+  "author": "gamaliel saracho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/gamalieldev/node-deploy/issues"
+  },
+  "homepage": "https://gitlab.com/gamalieldev/node-deploy#README",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
