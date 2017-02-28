@@ -6,7 +6,7 @@ module.exports = {
 	deploy: {
 		production: {
 			user: 'ubuntu',
-			host: 'http://ec2-52-43-101-31.us-west-2.compute.amazonaws.com',
+			host: 'ec2-52-43-101-31.us-west-2.compute.amazonaws.com',
 			key: '~/.ssh/contabilidadjg.pem',
 			ref: 'origin/master',
 			repo: 'git@github.com:gamalielsaracho/app-node.git',
